@@ -11,9 +11,8 @@ var fruits = ["apple","banana","orange"];
 
 var orange = fruits[2]; // -> replace banana to orange 
 
-// maps / objects 
-
-// key/value pairs
+// key/value pairs | (// maps / objects )
+               //  V
 var restaurant = {
   "name" ; "Tiwari's Hotel ",
   "location" : "Jhansi",
